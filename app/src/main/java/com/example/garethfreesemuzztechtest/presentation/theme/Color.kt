@@ -1,4 +1,4 @@
-package com.example.garethfreesemuzztechtest.ui.theme
+package com.example.garethfreesemuzztechtest.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
